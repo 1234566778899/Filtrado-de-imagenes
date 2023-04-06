@@ -1,0 +1,12 @@
+D:\Desarrollo\Proyectos Visual Studio\C++\FiltratoImagenes\FiltratoImagenes\bin\Debug\FiltratoImagenes.exe.config
+D:\Desarrollo\Proyectos Visual Studio\C++\FiltratoImagenes\FiltratoImagenes\bin\Debug\FiltratoImagenes.exe
+D:\Desarrollo\Proyectos Visual Studio\C++\FiltratoImagenes\FiltratoImagenes\bin\Debug\FiltratoImagenes.pdb
+D:\Desarrollo\Proyectos Visual Studio\C++\FiltratoImagenes\FiltratoImagenes\obj\Debug\FiltratoImagenes.csproj.AssemblyReference.cache
+D:\Desarrollo\Proyectos Visual Studio\C++\FiltratoImagenes\FiltratoImagenes\obj\Debug\FiltratoImagenes.csproj.SuggestedBindingRedirects.cache
+D:\Desarrollo\Proyectos Visual Studio\C++\FiltratoImagenes\FiltratoImagenes\obj\Debug\FiltratoImagenes.Properties.Resources.resources
+D:\Desarrollo\Proyectos Visual Studio\C++\FiltratoImagenes\FiltratoImagenes\obj\Debug\FiltratoImagenes.csproj.GenerateResource.cache
+D:\Desarrollo\Proyectos Visual Studio\C++\FiltratoImagenes\FiltratoImagenes\obj\Debug\FiltratoImagenes.csproj.CoreCompileInputs.cache
+D:\Desarrollo\Proyectos Visual Studio\C++\FiltratoImagenes\FiltratoImagenes\obj\Debug\FiltratoImagenes.exe
+D:\Desarrollo\Proyectos Visual Studio\C++\FiltratoImagenes\FiltratoImagenes\obj\Debug\FiltratoImagenes.pdb
+D:\Desarrollo\Proyectos Visual Studio\C++\FiltratoImagenes\FiltratoImagenes\obj\Debug\FiltratoImagenes.frmCarga.resources
+D:\Desarrollo\Proyectos Visual Studio\C++\FiltratoImagenes\FiltratoImagenes\obj\Debug\FiltratoImagenes.imgOriginal.resources
